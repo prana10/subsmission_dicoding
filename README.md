@@ -1,6 +1,7 @@
 # subsmission_dicoding
 
 A new Flutter project.
+music app for DAZBONE v1.
 
 ## Getting Started
 
